@@ -22,3 +22,11 @@ I'm a Business Management student with a passion for coding and a love for binge
 
 Thanks for stopping by 🙏✨
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=edlrmas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=edlrmas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edlrmas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=edlrmas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
